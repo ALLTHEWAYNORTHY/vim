@@ -1,5 +1,5 @@
 " run time set 
-set runtimepath^="/Users/yujinbiao/.vim"
+set runtimepath^="/Users/users/.vim"
 
 " Configuration file for vim
 " CVE-2007-2438
